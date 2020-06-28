@@ -1,0 +1,19 @@
+.jumbotron {
+    text-align: left;
+    font-family: 'Pangolin', cursive;
+    background-color: green;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+    
+
+.container {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: yellow;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+   
